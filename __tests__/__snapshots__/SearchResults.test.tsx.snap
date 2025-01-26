@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResults renders results unchanged 1`] = `
+<div>
+  <div>
+    <h2
+      class="mb-4 text-2xl font-bold text-green-600"
+    >
+      Search Results
+    </h2>
+    <ul
+      class="space-y-4"
+    >
+      <li
+        class="rounded-md border p-4 shadow-md"
+        data-testid="AMSBUD20221110HV9911"
+      >
+        <div
+          class="mb-2 flex items-center justify-between"
+        >
+          <div>
+            <span
+              class="font-bold"
+            >
+              Amsterdam
+            </span>
+             → 
+            <span
+              class="font-bold"
+            >
+              Budapest
+            </span>
+          </div>
+          <div
+            class="font-bold text-green-600"
+          >
+            <span
+              data-testid="AMSBUD20221110HV9911-price"
+            >
+              64.17
+            </span>
+             
+            EUR
+          </div>
+        </div>
+        <div
+          class="text-sm text-gray-600"
+        >
+          <p>
+            Departure: 
+            10/11/2022, 08:00:00
+          </p>
+          <p>
+            Arrival: 
+            10/11/2022, 09:55:00
+          </p>
+          <p>
+            Flight: 
+            HV
+             
+            9911
+          </p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
